@@ -1,0 +1,47 @@
+{
+  "anemia": {
+    "exp": 1.92,
+    "score": 110.8,
+    "weight": 4.7
+  },
+  "creatin": {
+    "exp": 2.78,
+    "score": 160.15,
+    "weight": 6.8
+  },
+  "triglecirid": {
+    "exp": 2.71,
+    "score": 156.39,
+    "weight": 6.6
+  },
+  "cpb": {
+    "exp": 2.22,
+    "score": 128.2,
+    "weight": 5.4
+  },
+  "frakcia": {
+    "exp": 2.22,
+    "score": 117.42,
+    "weight": 5.0
+  },
+  "infarct": {
+    "exp": 1.98,
+    "score": 114.11,
+    "weight": 4.8
+  },
+  "porajenie": {
+    "exp": 2.78,
+    "score": 160.15,
+    "weight": 6.8
+  },
+  "killip": {
+    "exp": 16.44,
+    "score": 948.93,
+    "weight": 40.3
+  },
+  "pnevmonia": {
+    "exp": 7.97,
+    "score": 460.2,
+    "weight": 19.5
+  }
+}
